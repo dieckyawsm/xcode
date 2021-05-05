@@ -185,7 +185,7 @@
 
    "Name" : "Uranus",
 
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyH3Vgm7xNKdJMVFE7sEFJJeDKvcYtgNwZEA",
+   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5IfD_TyvnCRZjehQwjOiUjbM1nvlGkj4vIw&usqp=CAU",
 
    "Link" : "https://github.com/pleaset/New_Tank/raw/main/4.zip"
 
@@ -195,7 +195,7 @@
 
    "Name" : "Grock",
 
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMRxpG-DKZoqBoAEd0JdLuucN93avHUqwhpA",
+   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCYfHdhOlBARuqdB9VoAehEFvW4rM6lFvfA&usqp=CAU",
 
    "Link" : "https://github.com/pleaset/tank/raw/main/19.zip"
 
@@ -205,7 +205,7 @@
 
    "Name" : "Grock",
 
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDsxlN8M-_-ia81fhpefwktGumuXUROD-bsQ",
+   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMRxpG-DKZoqBoAEd0JdLuucN93avHUqwhpA",
 
    "Link" : "https://github.com/pleaset/tank/raw/main/20.zip"
 
@@ -215,7 +215,7 @@
 
    "Name" : "Grock",
 
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7Q60Gvz8zYUZmT8RiEoPecjwMq3sIEp3cA",
+   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc42mUO3QkAiGQ8_sEOVILjjMBHdp7mgVyQQ&usqp=CAU",
 
    "Link" : "https://github.com/pleaset/tank/raw/main/21.zip"
 
@@ -225,7 +225,7 @@
 
    "Name" : "Grock",
 
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oz8CMGHDemdTppTUMTAH8Emz9ChWZi6orQ",
+   "Thumbnail" : "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Codename-_Rhino.jpg/revision/latest/scale-to-width-down/250?cb=20200610103634",
 
    "Link" : "https://github.com/pleaset/tank/raw/main/22.zip"
 
@@ -235,7 +235,7 @@
 
    "Name" : "Akai",
 
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JJji87T23BwWttkcttCeFMNKwGI4S2vO3Q",
+   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvIPR6eXxxln5eUYtnFLTUzC3oANjWiNhBuw&usqp=CAU",
 
    "Link" : "https://github.com/pleaset/tank/raw/main/23.zip"
 
@@ -245,7 +245,7 @@
 
    "Name" : "Akai",
 
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8Acm57cEmk4Zrqo0MULe7RQAZv0q3Rn48A",
+   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgCzCwu2aUIYY4HJwQLmiY-X9clcrRDmCPsQ&usqp=CAU",
 
    "Link" : "https://github.com/pleaset/tank/raw/main/24.zip"
 
@@ -255,7 +255,7 @@
 
    "Name" : "Akai",
 
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_56oB8m0tVd9fLBzf3Y0uNyxysWgjykcTpg",
+   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUyLqCl6MM2F65lV7gKZSeBCYVlsl6QNn4A&usqp=CAU",
 
    "Link" : "https://github.com/pleaset/tank/raw/main/25.zip"
 
@@ -263,21 +263,11 @@
 
       {
 
-   "Name" : "Akai",
+   "Name" : "Akai Epic",
 
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzliWWop-M7CicxA0jabPYyOUreqiULs5ymQ",
+   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6sjCw-ZZTGjuOUhBTAMItDyMUa4tegrnLw&usqp=CAU",
 
    "Link" : "https://github.com/pleaset/tank/raw/main/26.zip"
-
-   },
-
-      {
-
-   "Name" : "Akai",
-
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAhIlic97icl5fUhzP9SxV9Htls7sV4Xp-BQ",
-
-   "Link" : "https://github.com/pleaset/N.i.X/raw/main/Akai.zip"
 
    },
 
@@ -295,7 +285,7 @@
 
    "Name" : "Hylos",
 
-   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1B5gsBKQC6Xjo8WG0Oc2Rvj0hu2zMw7RoSQ&usqp=CAU",
+   "Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_N2JrQSl-fUvCcMBRiZZoXPh3J-qEkZWyw&usqp=CAU",
 
    "Link" : "https://github.com/pleaset/tank/raw/main/28.zip"
 
