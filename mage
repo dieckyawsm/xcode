@@ -1,85 +1,82 @@
 [
-
-{
-"Name" : "Cecilion",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTO_Wifwo8Hlp3m1ux2KN5ESTzQPsE3Ep_w&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/1.zip"
-},
-{
-"Name" : "Cecilion Special",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfw7wHF2s7utlov4CS-uOS5exv5KtJeYfGQg&usqp=CAU",
-"Link" : "https://github.com/pleaset/new_mage/raw/main/1.zip"
-},
-{
-"Name" : "Parsha",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BHe75f1LhihM27AG9nLUlqY3yuwBzRtIaw&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/4.zip"
-},
-{
-"Name" : "Parsha Collector",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHiaJ7RclmfpuOoFrg_VvHdr1lGG6Mt7tyQ&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/6.zip"
-},
-{
-"Name" : "Parsha Special",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGTD-FCxBOT8MrOoCI8mtp-tgWKi9FWQrt9g&usqp=CAU",
-"Link" : "https://github.com/pleaset/new_mage/raw/main/3.zip"
-},
-{
-"Name" : "Alice",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQZ0gvvB9c6nnZNDXhqZuiL7rxdcNQHMAIg&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/7.zip"
-},
-{
-"Name" : "Alice Special",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBB_V73WeRt7NOpAnmRQwqSN3_GYG43Sx2RA&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/8.zip"
-},
-{
-"Name" : "Alice Epic",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5FtcXDqw4ZJYcMdKVfkHN8DbgK7TI9QHWw&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/9.zip"
-},
-{
-"Name" : "Valir",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9V2Y4D0U13gwxDa-HLdegf1ARzjXyWdxew&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/10.zip"
-},
-{
-"Name" : "Valir Collector",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIjagjln89j_xxqaGJ4GlJ81KmUYePKBv-Q&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/12.zip"
-},
-{
-"Name" : "Valir Epic",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFX3FVanO6N36icfdU8Ke2LfATKbtYBvpfBw&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/14.zip"
-},
-{
-"Name" : "Change",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSprBvfPjG3lv8J7m9KicTmNvplSz4DL1kR6w&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/15.zip"
-},
-{
-"Name" : "Change Special",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1eKPRimEFfO1crR1DHNcAGSQXth0PLKlJA&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/18.zip"
-},
-{
-"Name" : "Change Epic",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1fH_GRLulxogZi045tK_dciDRHcJ3DckVMA&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/19.zip"
-},
-{
-"Name" : "Vale",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMnh4dAuRIGUQNl8zR0T9Mbtv5c2Wcb31lA&usqp=CAU",
-"Link" : "https://github.com/pleaset/mage_NEW/raw/main/20.zip"
-},
-{
-"Name" : "Vale Hero",
-"Thumbnail" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92RTGeG2U7zKOha-_BiwfGjiFsZUlLLw17A&usqp=CAU",
-"Link" : "https://github.com/pleaset/Beatrix/raw/main/ValeHero_New.zip"
-}
-
-
+  {
+    "Name": "Cecilion",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTO_Wifwo8Hlp3m1ux2KN5ESTzQPsE3Ep_w&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/1.zip"
+  },
+  {
+    "Name": "Cecilion Special",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfw7wHF2s7utlov4CS-uOS5exv5KtJeYfGQg&usqp=CAU",
+    "Link": "https://github.com/pleaset/new_mage/raw/main/1.zip"
+  },
+  {
+    "Name": "Parsha",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BHe75f1LhihM27AG9nLUlqY3yuwBzRtIaw&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/4.zip"
+  },
+  {
+    "Name": "Parsha Collector",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHiaJ7RclmfpuOoFrg_VvHdr1lGG6Mt7tyQ&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/6.zip"
+  },
+  {
+    "Name": "Parsha Special",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGTD-FCxBOT8MrOoCI8mtp-tgWKi9FWQrt9g&usqp=CAU",
+    "Link": "https://github.com/pleaset/new_mage/raw/main/3.zip"
+  },
+  {
+    "Name": "Alice",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQZ0gvvB9c6nnZNDXhqZuiL7rxdcNQHMAIg&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/7.zip"
+  },
+  {
+    "Name": "Alice Special",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBB_V73WeRt7NOpAnmRQwqSN3_GYG43Sx2RA&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/8.zip"
+  },
+  {
+    "Name": "Alice Epic",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5FtcXDqw4ZJYcMdKVfkHN8DbgK7TI9QHWw&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/9.zip"
+  },
+  {
+    "Name": "Valir",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9V2Y4D0U13gwxDa-HLdegf1ARzjXyWdxew&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/10.zip"
+  },
+  {
+    "Name": "Valir Collector",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIjagjln89j_xxqaGJ4GlJ81KmUYePKBv-Q&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/12.zip"
+  },
+  {
+    "Name": "Valir Epic",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFX3FVanO6N36icfdU8Ke2LfATKbtYBvpfBw&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/14.zip"
+  },
+  {
+    "Name": "Change",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSprBvfPjG3lv8J7m9KicTmNvplSz4DL1kR6w&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/15.zip"
+  },
+  {
+    "Name": "Change Special",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1eKPRimEFfO1crR1DHNcAGSQXth0PLKlJA&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/18.zip"
+  },
+  {
+    "Name": "Change Epic",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1fH_GRLulxogZi045tK_dciDRHcJ3DckVMA&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/19.zip"
+  },
+  {
+    "Name": "Vale",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMnh4dAuRIGUQNl8zR0T9Mbtv5c2Wcb31lA&usqp=CAU",
+    "Link": "https://github.com/pleaset/mage_NEW/raw/main/20.zip"
+  },
+  {
+    "Name": "Vale Hero",
+    "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92RTGeG2U7zKOha-_BiwfGjiFsZUlLLw17A&usqp=CAU",
+    "Link": "https://github.com/pleaset/Beatrix/raw/main/ValeHero_New.zip"
+  }
 ]
